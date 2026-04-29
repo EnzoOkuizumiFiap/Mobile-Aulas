@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "animation",
+    "slug": "animation",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.lucasrs.animation"
+    },
+    "ios": {
+      "bundleIdentifier": "com.lucasrs.animation"
+    }
+  }
+}
